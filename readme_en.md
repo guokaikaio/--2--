@@ -2,7 +2,7 @@
 板子尺寸 100 × 74 mm
 ### material
 https://forum.rvspace.org/t/any-mechanical-description-of-the-board/1198/3
-### The design mainly refers to this scheme
+### The design mainly refers to this scheme,thanks dalao
 https://shop.truecontrol.org/index.php?route=product/product&path=77&product_id=110
 ### Other print shells
 https://www.printables.com/model/360115

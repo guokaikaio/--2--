@@ -2,7 +2,7 @@
 板子尺寸 100 × 74 mm
 ### 资料
 https://forum.rvspace.org/t/any-mechanical-description-of-the-board/1198/3
-### 设计主要参考这个方案
+### 设计主要参考这个方案,感谢大佬
 https://shop.truecontrol.org/index.php?route=product/product&path=77&product_id=110
 ### 其他打印外壳
 https://www.printables.com/model/360115
@@ -25,3 +25,4 @@ https://github.com/leipopo/kekeandzuozuo4rock5b
 ## 物料
 参考发货单赛昉星光2开放外壳发货单
 https://docs.qq.com/sheet/DZmJWdmpBS1hlY2dh?tab=BB08J2
+
